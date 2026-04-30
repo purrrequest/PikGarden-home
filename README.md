@@ -5,15 +5,16 @@ A fan-made web app for Pikmin Bloom players to track their decor collection and 
 
 **Live app:** [pikgarden.vercel.app](https://pikgarden.vercel.app)
 
----
 
-### The Problem
+
+
+## The Problem
 
 Pikmin Bloom players collect decor Pikmin across dozens of location types and color variants. The game offers in-game catalog, but there are just too many types of decors and variations. Most players rely on memory or manually maintained spreadsheets. 
 
----
 
-### What I Built
+
+## What I Built
 
 PikGarden is a mobile-first web app with two core features:
 
@@ -21,9 +22,9 @@ PikGarden is a mobile-first web app with two core features:
 
 **Decor Finder** — Search by decor type to find nearby real-world locations. Open results directly in Google Maps to plan your next walk.
 
----
 
-### How I Approached It
+
+## How I Approached It
 
 This is my first personal project. I treated this fan project the same way I'd approach a product, starting with real user problems, shipping fast, listening to feedback, and making deliberate decisions about what to build next.
 
@@ -37,9 +38,9 @@ Some decisions I made along the way:
 
 **Community-first growth**: Shared the app on the Pikmin Bloom subreddit as the primary distribution channel. Used real community feedback to prioritize features and fixes.
 
----
 
-### Stack
+
+## Stack
 
 - Vanilla JS, HTML, CSS -- single file, no framework
 - Firebase Auth + Firestore -- user authentication and collection sync
@@ -48,8 +49,8 @@ Some decisions I made along the way:
 - Claude Code -- AI-assisted development
 - Google Analytics -- usage tracking
 
----
 
-### Status
+
+## Status
 
 Actively maintained. Updated monthly with new Pikmin Bloom decor releases.
