@@ -6,9 +6,6 @@ A fan-made web app for Pikmin Bloom players to track their decor collection and 
 **Live app:** [pikgarden.vercel.app](https://pikgarden.vercel.app)
 
 <img src="images/PikGarden Decor Tracker Finder.jpg">
-<img src="images/PikGarden More.jpg">
-<img src="images/Pikmin Bloom Rare Decor.jpg">
-
 
 
 ## The Problem
@@ -25,6 +22,9 @@ PikGarden is a mobile-first web app with two core features:
 
 **Decor Finder** — Search by decor type to find nearby real-world locations. Open results directly in Google Maps to plan your next walk.
 
+
+<img src="images/PikGarden More.jpg">
+<img src="images/Pikmin Bloom Rare Decor.jpg">
 
 
 ## How I Approached It
